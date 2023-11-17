@@ -1,10 +1,10 @@
 
-# HR-Dashboard-MySQL-PowerBI
-
+# **HR-Dashboard-MySQL-PowerBI**
+---
 ![image](https://github.com/Khaylechy/HR-Dashboard-MySQL-PowerBI/assets/148490717/30652503-8529-417a-877e-d99e11fac25b)
 
 ### Data Used
-
+---
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
 Data Cleaning & Analysis - MySQL Workbench
@@ -12,6 +12,7 @@ Data Cleaning & Analysis - MySQL Workbench
 Data Visualization - PowerBI
 
 ### Questions
+---
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
 3. What is the age distribution of employees in the company?
@@ -25,7 +26,7 @@ Data Visualization - PowerBI
 11. What is the tenure distribution for each department?
 
   ### Summary of Findings
-
+---
 - There are more male employees
 - White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
 - The youngest employee is 20 years old and the oldest is 57 years old
@@ -39,6 +40,7 @@ Data Visualization - PowerBI
 - The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
 
 ### Limitation
+---
 - Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
 - Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
   
