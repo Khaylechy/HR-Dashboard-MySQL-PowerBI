@@ -1,5 +1,7 @@
-![image](https://github.com/Khaylechy/HR-Dashboard-MySQL-PowerBI/assets/148490717/30652503-8529-417a-877e-d99e11fac25b)
 
+# HR-Dashboard-MySQL-PowerBI
+
+![image](https://github.com/Khaylechy/HR-Dashboard-MySQL-PowerBI/assets/148490717/30652503-8529-417a-877e-d99e11fac25b)
 
 ### Data Used
 
