@@ -1,5 +1,5 @@
 
-# **HR-Dashboard-MySQL-PowerBI**
+# **HR-Dashboard-MySQL-PowerBI**  
 ---
 ![image](https://github.com/Khaylechy/HR-Dashboard-MySQL-PowerBI/assets/148490717/30652503-8529-417a-877e-d99e11fac25b)
 
@@ -9,7 +9,7 @@ Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
 Data Cleaning & Analysis - MySQL Workbench
 
-Data Visualization - PowerBI
+Data Visualization - PowerBI-
 
 ### Questions
 ---
